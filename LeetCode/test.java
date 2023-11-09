@@ -2,6 +2,6 @@ package LeetCode;
 
 public class test {
     public static void main(String[] args) {
-        System.out.println("LeetCode");
+        System.out.println("LeetCode!");
     }
 }
