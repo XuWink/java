@@ -21,7 +21,7 @@ public class bubble_sort {
         System.out.println(Arrays.toString(arr));
     }
 
-    //    优化
+    //  优化
     public static void bubbleSort_2(int arr[]) {
         int i, j;
         int temp = 0;
