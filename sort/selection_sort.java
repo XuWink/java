@@ -8,7 +8,6 @@ import java.util.Arrays;
  * 时间复杂度O(n^2)，空间复杂度O(1)，原地操作，不稳定排序
  */
 public class selection_sort {
-
     public static void selectionSort(int[] arr) {
         int i, j, temp;
         for (i = 0; i < arr.length - 1; i++) {
