@@ -3,8 +3,8 @@ package sort;
 import java.util.Arrays;
 
 /**
- * TODO
- * 快排
+ * 快排 https://www.hello-algo.com/chapter_sorting/quick_sort/
+ *
  */
 public class QuickSort {
     public static void main(String[] args) {
