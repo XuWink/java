@@ -7,7 +7,7 @@ import java.util.Arrays;
  * 将数组分为两个区间：左侧为已排序区间，右侧为未排序区间。每趟从未排序区间中选择一个值最小的元素，放到已排序区间的末尾，从而将该元素划分到已排序区间。
  * 时间复杂度O(n^2)，空间复杂度O(1)，原地操作，不稳定排序
  */
-public class selection_sort {
+public class SelectionSort {
     public static void selectionSort(int[] arr) {
         int i, j, temp;
         for (i = 0; i < arr.length - 1; i++) {
