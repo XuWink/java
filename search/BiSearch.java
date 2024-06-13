@@ -1,4 +1,4 @@
-package sort;
+package search;
 
 /**
  * 二分查找
